@@ -4,7 +4,10 @@
 The question is, why not?
 
 #### Is this ready?
-> No. Really, this is really unstable now.
+No. Really, this is really unstable now.
+
+#### Why AArch64 first?
+Because i do not have my computer with me, only my phone, and it's 64-bit arm.
 
 #### Usage:
 The usage is really simple, there's only two functions:
